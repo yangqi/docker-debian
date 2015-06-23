@@ -1,4 +1,4 @@
-## Ubuntu Dockerfile
+## Debian Dockerfile
 
 
 This repository contains **Dockerfile** of [Debian](http://www.debian.org/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/debian/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
