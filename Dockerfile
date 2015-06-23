@@ -7,6 +7,8 @@
 # Pull base image.
 FROM debian:8.1
 
+MAINTAINER Qi Yang <i@yangqi.me>
+
 # Install.
 RUN \
   sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list && \
