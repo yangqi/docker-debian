@@ -13,11 +13,11 @@ This repository contains **Dockerfile** of [Debian](http://www.debian.org/) for 
 
 1. Install [Docker](https://www.docker.com/).
 
-2. Download [automated build](https://registry.hub.docker.com/u/dockerfile/debian/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull yangqi/debian`
+2. Download [automated build](https://registry.hub.docker.com/u/dockerfile/debian/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull yangqi/docker-debian`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="yangqi/debian" github.com/yangqi/debian`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="yangqi/docker-debian" github.com/yangqi/docker-debian`)
 
 
 ### Usage
 
-    docker run -it --rm yangqi/debian
+    docker run -it --rm yangqi/docker-debian
