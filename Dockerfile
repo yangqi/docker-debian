@@ -1,7 +1,7 @@
 #
 # Debian Dockerfile
 #
-# https://github.com/yangqi/debian
+# https://github.com/yangqi/docker-debian
 #
 
 # Pull base image.
